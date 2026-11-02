@@ -81,8 +81,8 @@ Example measurements:
 
 ## Project Structure
 
-```text
-CodeAlpha_IrisFlowerClassification/
+```
+Iris-Flower-Classification/
 ├── notebooks/
 │   └── iris_classification_final.ipynb
 ├── models/
@@ -94,11 +94,10 @@ CodeAlpha_IrisFlowerClassification/
 │   ├── species_distribution.png
 │   ├── feature_distributions.png
 │   └── correlation_heatmap.png
-├── src/
-├── data/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
 ```
 
 ## How to Run
