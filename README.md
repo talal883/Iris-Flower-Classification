@@ -1,7 +1,7 @@
 
 # Iris Flower Classification 🌸
 
-### CodeAlpha Data Science Internship Project
+ ### End-to-End Machine Learning Classification Project
 
 A Machine Learning classification project that predicts Iris flower species using four flower measurements. The project includes data preprocessing, exploratory data analysis, model training, evaluation, and prediction.
 
@@ -124,8 +124,8 @@ python -m notebook
 
 Talal Ahmad
 
-**Data Science Intern — CodeAlpha**
+Python | Data Science | Machine Learning
 
 ## Project Purpose
 
-Developed as part of the CodeAlpha Data Science Internship to demonstrate practical skills in data analysis, visualization, machine learning classification, model evaluation, and prediction.
+This project demonstrates practical skills in data preprocessing, exploratory data analysis, machine learning classification, model evaluation, and prediction.
